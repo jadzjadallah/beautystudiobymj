@@ -429,6 +429,12 @@ body {
   padding-top: 0;
 }
 
+.pricing {
+  font-family: "Times New Roman", Times, serif;
+  color: deeppink;
+  font-size: 1.25rem;
+}
+
 .price-back {
   width: 70%;
   height: 300px;
@@ -808,6 +814,11 @@ footer {
   }
 
   /* Price List */
+  .pricing {
+    font-family: "Times New Roman", Times, serif;
+    color: deeppink;
+    font-size: 0.75rem;
+  }
 
   /* Gallery */
   div.item {
